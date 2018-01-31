@@ -2,3 +2,5 @@
 *.so
 *.o
 *.swp
+build/
+demo/README.rst
